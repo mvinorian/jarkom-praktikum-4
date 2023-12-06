@@ -584,6 +584,10 @@ netmask 255.255.252.0
 gateway 192.169.232.1
 ```
 
+### Test Ping Client
+
+https://github.com/mvinorian/jarkom-praktikum-4/assets/54766683/fe31ba2a-1256-4198-a8f3-3a68953c6331
+
 ## CIDR
 
 Untuk memetakan IP subnet menggunakan _Classless Inter-Domain Routing_ akan dilakukan penggabungan dari dua kumpulan subnet yang terdekat.
@@ -686,5 +690,7 @@ IP dan subnet yang dilingkari biru merupakan NID yang dipilih dari kebutuhan net
 |  A19   | 192.171.0.0   | 255.255.255.252 | 192.169.0.3    |
 |  A20   | 192.168.128.0 | 255.255.255.252 | 192.169.128.3  |
 |  A21   | 192.169.128.0 | 255.255.255.252 | 192.169.128.3  |
+
+### Test Ping Client
 
 https://github.com/mvinorian/jarkom-praktikum-4/assets/54766683/54a8d38e-507b-4eec-9997-0bdfd83a4066
