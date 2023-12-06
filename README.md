@@ -686,3 +686,5 @@ IP dan subnet yang dilingkari biru merupakan NID yang dipilih dari kebutuhan net
 |  A19   | 192.171.0.0   | 255.255.255.252 | 192.169.0.3    |
 |  A20   | 192.168.128.0 | 255.255.255.252 | 192.169.128.3  |
 |  A21   | 192.169.128.0 | 255.255.255.252 | 192.169.128.3  |
+
+https://github.com/mvinorian/jarkom-praktikum-4/assets/54766683/54a8d38e-507b-4eec-9997-0bdfd83a4066
